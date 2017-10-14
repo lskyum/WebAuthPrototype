@@ -3,7 +3,7 @@
 A prototype of using the Web Authentication API.
 This prototype is made for academic purposes only.
 
-##Instructions
+## Instructions
 1. Run server with node: node server.js
 	   It should display "Listening on port 1337".
 	  
